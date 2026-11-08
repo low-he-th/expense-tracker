@@ -1,0 +1,6 @@
+{
+  "name": "DailyWorth",
+  "description": "Personal Expense Tracker & Daily Budget Management Application. Know your limit. Own your day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
